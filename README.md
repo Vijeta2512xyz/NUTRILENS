@@ -41,19 +41,17 @@ NutriLens addresses a growing need for transparent nutritional information in an
 
 
 
-1️⃣ Header / Navbar
+1️  Header / Navbar
 Description:
 The header includes a Nutrilens logo and navigation links for smooth scrolling to different sections: Home, How It Works, Dashboard, Scanner, and Blog.
 
-Features:
 
-Logo placement
 
 Responsive navigation links
 ![WhatsApp Image 2025-06-01 at 14 52 30_6c26b8d7](https://github.com/user-attachments/assets/0a3bd6ad-615e-4361-ac76-867548cd82eb)
 
 
-2️⃣ Hero Section (Home)
+2️  Hero Section (Home)
 Description:
 A visually attractive welcome section with the tagline “Eat Smart, Live Better with Nutrilens” and a call-to-action button to start scanning.
 
@@ -67,7 +65,7 @@ Introduces the purpose of Nutrilens
 
 ![WhatsApp Image 2025-06-01 at 14 52 30_6f6a41f1](https://github.com/user-attachments/assets/de1438c7-4692-469b-b552-3a66e94ec700)
 
-3️⃣ How It Works Section
+3️   How It Works Section
 Description:
 This section explains the Nutrilens workflow in 3 simple steps using icons:
 
@@ -81,11 +79,11 @@ Features:
 
 Flowchart-style 3-step explanation
 
-Font Awesome icons for visual clarity
+
 
 ![WhatsApp Image 2025-06-01 at 14 52 53_f745d70e](https://github.com/user-attachments/assets/28ea941b-8bfb-4762-8fda-8197572c79b5)
 
-4️⃣ Personalized Dashboard Section
+4️   Personalized Dashboard Section
 Description:
 Showcases a personalized dashboard preview where users can track their scan history, set health goals, and receive real-time food alerts.
 
@@ -96,7 +94,7 @@ Features:
 Icons for each feature (goals, history, alerts)
 ![WhatsApp Image 2025-06-01 at 14 53 24_ecece047](https://github.com/user-attachments/assets/6bbffb67-ac7c-435c-9466-17ea06f0c41b)
 
-5️⃣ Smart Food Label Scanner
+5️   Smart Food Label Scanner
 Description:
 Interactive scanner section where users can upload food label images, enter barcodes, or paste ingredient lists. It also displays sample scan results for quick feedback.
 
@@ -110,7 +108,7 @@ User-friendly layout for form inputs
 ![WhatsApp Image 2025-06-01 at 14 53 46_12a1e5c1](https://github.com/user-attachments/assets/073ee6c0-e67c-4e35-a676-de466166156e)
 
 
-6️⃣ Blog / Learn Section
+6️  Blog / Learn Section
 Description:
 Educational section with 3 blog cards on food additives, allergy management, and smart eating tips. This helps users stay informed through curated content.
 
@@ -121,5 +119,6 @@ Card layout for blog previews
 Images, titles, and "Read More" links
 
 ![WhatsApp Image 2025-06-01 at 14 54 10_3717e976](https://github.com/user-attachments/assets/2e6ea8e7-7c2f-4cdd-9ec2-2301b9a72558)
+
 
 The Nutrilens frontend presents a clean, accessible, and functional layout designed for future integration with AI and backend APIs. It ensures a smooth user experience, intuitive food scanning options, and personalized health insights—all aligned with modern nutrition trends.
